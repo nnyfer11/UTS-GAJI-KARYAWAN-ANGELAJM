@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="GAJI KARYAWAN" android:gravity="center" android:textStyle="bold" android:textSize="20sp" />
+        <EditText android:id="@+id/etNikAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Nomor Induk Karyawan" android:inputType="number" />
+        <EditText android:id="@+id/etNamaAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Nama Karyawan" />
+        <EditText android:id="@+id/etGapokAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Gaji Pokok" android:inputType="number" />
+        <EditText android:id="@+id/etTunjJabatanAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Tunjangan Jabatan" android:inputType="number" />
+        <EditText android:id="@+id/etHariKerjaAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Jumlah Hari Kerja" android:inputType="number" />
+
+        <Button android:id="@+id/btnHitungAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="HITUNG" android:backgroundTint="#2196F3" android:layout_marginTop="10dp" />
+
+        <EditText android:id="@+id/etTunjMakanAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Tunjangan Makan" android:enabled="false" />
+        <EditText android:id="@+id/etTunjTransportAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Tunjangan Transportasi" android:enabled="false" />
+        <EditText android:id="@+id/etGajiKotorAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Gaji Kotor" android:enabled="false" />
+        <EditText android:id="@+id/etPajakAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Pajak 10%" android:enabled="false" />
+        <EditText android:id="@+id/etGajiBersihAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="Gaji Bersih" android:enabled="false" />
+
+        <Button android:id="@+id/btnKembaliAngelajm" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="KEMBALI" android:layout_marginTop="10dp" />
+    </LinearLayout>
+</ScrollView>

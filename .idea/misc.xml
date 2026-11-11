@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.197" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1835" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.1835" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/drawable/ic_baseline_wallet_24.xml" value="0.1835" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/layout/activity_main_angelajm.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/layout/activity_petunjuk_angelajm.xml" value="0.153125" />
+        <entry key="..\:/ANDROID/UTSANDRO/app/src/main/res/layout/activity_tentang_angelajm.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+</project>
